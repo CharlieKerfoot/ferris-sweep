@@ -7,15 +7,15 @@ I originally gained interest as I've heard many say that is make typing more fun
 ## Part List
 These were the exact parts that I used. You can customize most of it like the switches or the size of the sockets.
 
-1 Ferris Sweep PCB (see gerberfile)
-2 nice!nanos
-2 3.7V lithium batteries
-68 0305 Mill-Max hotswap sockets
-34 Kailh Choc v1 Brown switches
-34 Kailh Low Profile PBT Blank keycaps
-2 MSK-12C02 on/off switches
-4+ Rubber Feet
-1 USB C cable
+- 1 Ferris Sweep PCB (see gerberfile)
+- 2 nice!nanos
+- 2 3.7V lithium batteries
+- 68 0305 Mill-Max hotswap sockets
+- 34 Kailh Choc v1 Brown switches
+- 34 Kailh Low Profile PBT Blank keycaps
+- 2 MSK-12C02 on/off switches
+- 4+ Rubber Feet
+- 1 USB C cable
 
 ## Build Guide
 
